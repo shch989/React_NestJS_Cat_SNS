@@ -1,0 +1,5 @@
+### 모든 고양이 정보 출력
+GET http://localhost:8000/cats/
+
+### 특정 고양이 정보 출력
+GET http://localhost:8000/cats/123
